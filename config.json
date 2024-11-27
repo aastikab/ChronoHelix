@@ -1,0 +1,18 @@
+{
+    "data": {
+        "fasta_files": ["path/to/your/data.fasta"],
+        "batch_size": 32
+    },
+    "gnn": {
+        "hidden_channels": 64,
+        "num_layers": 3
+    },
+    "diffusion": {
+        "sequence_length": 100,
+        "hidden_size": 128
+    },
+    "training": {
+        "num_epochs": 100,
+        "device": "cuda"
+    }
+}
