@@ -5,7 +5,7 @@ ChronoHelix is an AI-powered project designed to decode and reconstruct ancient 
 ## Key Features
 - Fragmented DNA Repair: Leverages GNNs to map and reconstruct degraded DNA sequences.
 - Missing Data Prediction: Employs diffusion models to predict and fill gaps in ancient genetic material based on patterns from modern genomes.
-- Evolutionary Insights: Provides enhanced tools for understanding human ancestry, migration, and extinct species' genomes
+- Evolutionary Insights: Provides enhanced tools for understanding human ancestry, migration, and extinct species' genomes.
 
 ## Problem Statement
 Ancient DNA is often degraded due to environmental factors, making it difficult to reconstruct and analyze. This limits our ability to study evolutionary history, migration patterns, and extinct species. ChronoHelix addresses this by applying AI techniques to improve the accuracy and completeness of ancient DNA reconstruction.
