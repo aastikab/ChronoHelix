@@ -1,0 +1,51 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Data
+data/reich_lab/
+data/raw/
+*.fasta
+*.fastq
+*.bam
+*.sam
+*.vcf
+
+# Logs and checkpoints
+logs/
+checkpoints/
+*.log
+*.pt
+*.pth
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
